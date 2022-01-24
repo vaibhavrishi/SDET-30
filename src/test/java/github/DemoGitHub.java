@@ -9,6 +9,7 @@ public class DemoGitHub {
 	public void denoGithubTest() {
 		
 		System.out.println("user 1 first commit");
+		System.out.println("user2  first commit");
 	}
 	
 
